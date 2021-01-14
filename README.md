@@ -44,7 +44,7 @@ Applying normal features data to train the model with Bernoulli Naive Bayes.
 
 ##### 3.1.2 YAKE(Yet Another Keyword Extraction) for Bag of words
 
-< _is used for data processing with Bag of Words by apply based on [yake](https://github.com/LIAAD/yake) package for training, dev and test data._
+> _is used for data processing with Bag of Words by apply based on [yake](https://github.com/LIAAD/yake) package for training, dev and test data._
 
 
 
