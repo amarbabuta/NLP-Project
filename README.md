@@ -31,21 +31,6 @@ The `Data` contains both train data and test data.
 
 
 
-
-
-
-`all_clean_data.csv`
-> _The entire processed training dataset which contains 328932 tweets posted by 9297 users._
-
-`test_clean_data.csv`
-> _The entire processed test dataset which contains 35437 tweets posted by the same user group in the training dataset._
-
-`train.csv`
-> _The random 9/10 processed training dataset used for partial training dataset._
-
-`train.csv`
-> _The random 1/10 processed training dataset used for partial test dataset._
-
 ### 3. Code
 #### 3.1. Data Preprcessing and Feature Engineering
 `project_!_NLP.ipynb`
