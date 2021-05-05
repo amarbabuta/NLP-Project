@@ -8,7 +8,7 @@ A system that detects whether a document contains climate change misinformation 
 
 
 
-In this project, the task is to predict climate change misinformation from the document of test data from training data, which comes from an in-class [Codalab Competition](https://competitions.codalab.org/competitions/24205). Our works include prepairing the data, data preprocessing, feature engineering, model selection and ensemble models etc. For more details, please check the [project specifications](https://github.com/amarbabuta/NLP-Project/blob/master/project%20.pdf) and [project report](https://github.com/amarbabuta/NLP-Project/blob/master/COMP90042-%20Project%20report.pdf).
+In this project, the task is to predict climate change misinformation from the document of test data from training data, which comes from an in-class [Codalab Competition](https://competitions.codalab.org/competitions/24205). Our works include prepairing the data, data preprocessing, feature engineering, model selection and ensemble models etc. For more details, please check the [project specifications] and [project report].
 
 ### 2. Data
 The `Data` contains both train data, test data and dev data.
